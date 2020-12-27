@@ -1,4 +1,4 @@
-package com.duwenxi.game1;
+package com.duwenxi.game;
 
 public final class Config {
 	public static final int EMPTY = 0;
