@@ -1,4 +1,4 @@
-package com.duwenxi.game1;
+package com.duwenxi.game;
 
 import java.awt.Canvas;
 import java.awt.Color;
